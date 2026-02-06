@@ -1,0 +1,4 @@
+# Introdução
+
+Exemplos envolvendo:
+- algoritmos
